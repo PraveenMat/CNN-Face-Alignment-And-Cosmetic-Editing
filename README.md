@@ -54,7 +54,6 @@ Precise facial landmark localisation is fundamental to numerous applications, in
 ## Limitations & Next Steps
 * **Expression variation** – large yaw or wide‑open mouths still degrade accuracy; collect or synthesise such poses.
 * **Lighting realism** – cosmetic recolouring ignores scene lighting; an intrinsic‑image or GAN approach would improve realism.
-* **Speed** – current Python demo runs ~30 FPS on CPU; exporting to TF‑Lite/ONNX would enable mobile use‑cases.
 
 ---
 ## License
