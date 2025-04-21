@@ -57,5 +57,5 @@ Precise facial landmark localisation is fundamental to numerous applications, in
 
 ---
 ## License
-MIT – see `LICENSE` for details.
+All Rights Reserved.
 
