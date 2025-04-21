@@ -50,10 +50,6 @@ Precise facial landmark localisation is fundamental to numerous applications, in
 | **Model 2** | 0.89 | 0.85 | 4.72 |
 | **Model 3** | **0.90** | **0.86** | **3.24** |
 
-Below: qualitative examples that match the quantitative results.
-
-<table><tr><td width="48%"><img src="docs/assets/qual_good.gif" alt="Good alignment example"></td><td width="48%"><img src="docs/assets/qual_fail.gif" alt="Failure example"></td></tr><tr><td align="center">Points closely follow the facial contour.</td><td align="center">Failure on mouth‑open pose & strong perspective.</td></tr></table>
-
 ---
 ## Limitations & Next Steps
 * **Expression variation** – large yaw or wide‑open mouths still degrade accuracy; collect or synthesise such poses.
